@@ -62,10 +62,22 @@ html {
 }
 
 @media (prefers-reduced-motion) {
-  .gear gear-big {
+  .gear gear-big{
     animation: none;
   }
+}
 
+  @media (prefers-reduced-motion) {
+    .gear gear-small {
+      animation: none;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+  main {
+    background-color: #111;
+  }
+}
 /* stylelint-disable media-feature-name-no-unknown */
 
 /**
