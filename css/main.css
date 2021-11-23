@@ -69,6 +69,13 @@ html {
 
 }
 
+@@media (prefers-color-scheme: Dark) {
+
+  main {
+      background-color: #111;
+    }
+  }
+
 /* stylelint-disable media-feature-name-no-unknown */
 
 /**
