@@ -69,7 +69,7 @@ html {
 
 }
 
-@@media (prefers-color-scheme: Dark) {
+@media (prefers-color-scheme: Dark) {
 
   main {
     background-color: #111;
