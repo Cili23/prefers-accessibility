@@ -62,15 +62,9 @@ html {
 }
 
 @media (prefers-reduced-motion) {
-  .gear gear-big{
+  .gear {
     animation: none;
   }
-}
-
-  @media (prefers-reduced-motion) {
-    .gear gear-small {
-      animation: none;
-    }
 }
 
 @media (prefers-color-scheme: dark) {
