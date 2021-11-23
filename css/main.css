@@ -61,7 +61,7 @@ html {
 
 }
 
-/ stylelint-disable media-feature-name-no-unknown /
+/* stylelint-disable media-feature-name-no-unknown */
 
 main {
   background-color: #f2f2f2;
@@ -87,4 +87,4 @@ main {
 
 }
 
-/ stylelint-enable */
+/* stylelint-enable */
